@@ -22,7 +22,9 @@ imagen | Componente |  precio (u) | url
 <img src="./images/components/wemos-d1-mini.png" width="120"> | 2x wemos d1 mini (esp8266) |  1,63€  | [Aliexpress](https://es.aliexpress.com/item/32958591238.html?spm=a2g0s.9042311.0.0.274263c01DRJqH)
 <img src="./images/components/ventilador-pc.png" width="120"> | 2x ventilador pc |  2,08€  | [Amazon](https://es.aliexpress.com/item/32958591238.html?spm=a2g0s.9042311.0.0.274263c01DRJqH)
 <img src="./images/components/apds9960.png" width="120"> | 2x apds9966 |  1,06€  | [Aliexpress](https://es.aliexpress.com/item/4000051599173.html?spm=a2g0s.9042311.0.0.274263c0AyfmKo)
-<img src="./images/components/bme280.png" width="120"> | 2x bme280 5v |  1,67€  | [Aliexpress](https://es.aliexpress.com/item/32849462236.html?spm=a2g0s.9042311.0.0.274263c06IUh9i)
+<img src="./images/components/bme280.png" width="120" alt="sensor humedad, temperatura, presión y altura"> | 2x bme280 5v |  1,67€  | [Aliexpress](https://es.aliexpress.com/item/32849462236.html?spm=a2g0s.9042311.0.0.274263c06IUh9i)
+<img src="./images/components/humidificador-ceramico.png" width="120"> | Humidificador cerámico |  1,06€  | [Aliexpress](https://es.aliexpress.com/item/32794456369.html?spm=a2g0o.cart.0.0.50a33c00O1UMvs&mp=1)
+<img src="./images/components/sensor-nivel-agua.png" width="120"> | Sensor nivel agua |  0,57€  | [Aliexpress](https://es.aliexpress.com/item/33053325398.html?spm=a2g0s.9042311.0.0.5d6f63c0tx0q9Q)
 
 
 
