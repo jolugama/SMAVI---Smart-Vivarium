@@ -1,7 +1,8 @@
 # SMAVI - Smart-Vivarium
 Proyecto de vivarium. Usando  ESP32 junto a varios sensores, contectado a internet, te avisará si tiene una necesidad no satisfecha. 
 
-![Vivarium](./images/components/vivarium.png)
+<!-- ![Vivarium](./images/components/vivarium.png) -->
+<img src="./images/components/vivarium.png" width="400"> 
 
 <!-- <img src="./images/components/vivarium.png" width="100"> -->
 
