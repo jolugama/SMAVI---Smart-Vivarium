@@ -20,7 +20,7 @@ Proyecto de vivarium. Usando  ESP32 junto a varios sensores, contectado a intern
 imagen | Componente |  precio | url
 ------- |------------- |------- | --------
 <img src="./images/components/wemos-d1-mini.png" width="120"> | 2 wemos d1 mini (esp8266) |  1,63€  | [Aliexpress](https://es.aliexpress.com/item/32958591238.html?spm=a2g0s.9042311.0.0.274263c01DRJqH)
-<img src="./images/components/ventilador-pc.png" width="120"> | 2 ventilador pc |  2,08€  | [Amazon](https://es.aliexpress.com/item/32958591238.html?spm=a2g0s.9042311.0.0.274263c01DRJqH)
+<img src="./images/components/ventilador-pc.png" width="120"> | 2 ventilador pc |  2*2,08€  | [Amazon](https://es.aliexpress.com/item/32958591238.html?spm=a2g0s.9042311.0.0.274263c01DRJqH)
 
 
 
